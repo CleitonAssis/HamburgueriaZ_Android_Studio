@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HamburgueriaZ</string>
+    <string name="logo">logo</string>
+    <string name="texto_boas_vindas">Faça seu pedido !</string>
+    <string name="nome">Nome</string>
+    <string name="texto_opcionais">Opcionais</string>
+    <string name="opcional1">Bacon</string>
+    <string name="opcional2">Queijo</string>
+    <string name="opcional3">Onion Rings</string>
+    <string name="texto_quantidade">Quantidade</string>
+    <string name="menos">-</string>
+    <string name="quantidade_pedido">0</string>
+    <string name="mais">+</string>
+    <string name="resumo_pedido">Resumo do pedido</string>
+    <string name="valor_total">R$ 0</string>
+    <string name="fazer_Pedido">Fazer pedido</string>
+    <string name="confirmar_Pedido">Enviar pedido</string>
+    <string name="sair">Sair</string>
+</resources>
